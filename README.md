@@ -1,6 +1,6 @@
 # LLM Knowledge Base — a Claude Code + Obsidian starter kit
 
-An starter kit for a **personal knowledge base that an LLM writes and maintains for you** — built with [Claude Code](https://www.anthropic.com/claude-code) as the agent and [Obsidian](https://obsidian.md) as the reading UI, and conformant to Google's [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md).
+A starter kit for a **personal knowledge base that an LLM writes and maintains for you** — built with [Claude Code](https://www.anthropic.com/claude-code) as the agent and [Obsidian](https://obsidian.md) as the reading UI, and conformant to Google's [Open Knowledge Format (OKF) v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md).
 
 The pattern is Andrej Karpathy's *LLM Wiki*: instead of retrieving from raw documents at query time (RAG), an LLM incrementally **compiles** your sources into a persistent, interlinked markdown wiki — summaries, concept pages, backlinks, and an evolving synthesis — and keeps it current as you add material. You curate sources and ask questions; the LLM does the summarizing, cross-referencing, and bookkeeping.
 
