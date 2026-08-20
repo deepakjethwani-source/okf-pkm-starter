@@ -44,8 +44,8 @@ Because most of the corpus is machine-generated, a reader needs to know: where d
 
 ## Credits
 
-- Knowledge-base pattern: **Andrej Karpathy**, *LLM Wiki*.
-- Knowledge format: **Google Cloud**, *Open Knowledge Format (OKF)*.
+- Knowledge-base pattern: **Andrej Karpathy**, [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- Knowledge format: **Google Cloud**, [Open Knowledge Format (OKF)](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)
 - Agent: **Anthropic Claude Code**.
 
 ## License
