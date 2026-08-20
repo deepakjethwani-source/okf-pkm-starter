@@ -1,0 +1,25 @@
+# --- Personal knowledge base content ---
+# This template ships EXAMPLE pages but ignores real notes by default, so you
+# never accidentally publish your own raw sources or wiki. Delete these rules
+# if you actually want to version your knowledge base in THIS repo (keep it
+# private if so).
+raw/*
+!raw/.gitkeep
+!raw/assets/.gitkeep
+outputs/*
+!outputs/.gitkeep
+wiki/sources/*
+!wiki/sources/EXAMPLE-source.md
+wiki/concepts/*
+!wiki/concepts/EXAMPLE-concept.md
+
+# --- Obsidian ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+
+# --- Python / OS ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
